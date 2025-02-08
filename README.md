@@ -17,4 +17,4 @@ Licenciado en Inteligencia Artificial con experiencia en **Machine Learning, Cie
 
 📬 **Conéctate conmigo:**  
 📧 zambrasjose9@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/josé-gregorio-zambrano-medina-46ba1520a) | [Portafolio]([URL_PORTAFOLIO](https://github.com/zambrajose9))  
+🔗 [LinkedIn](www.linkedin.com/in/josé-gregorio-zambrano-medina-46ba1520a) | [Portafolio](https://github.com/zambrajose9)  
