@@ -16,7 +16,6 @@ Puedes ver el tablero de Power BI aquí:
 🔗 [Ver Informe](https://app.powerbi.com/reportEmbed?reportId=ba28019f-87f3-4840-a6a2-591dd41a7ee6&autoAuth=true&ctid=6669feab-699f-4cbc-b42f-12d2e634e7d2)
 
  
-
 📬 **Conéctate conmigo:**  
 📧 zambrasjose9@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/josé-gregorio-zambrano-medina-46ba1520a) | [Portafolio](https://github.com/zambrajose9)  
