@@ -4,7 +4,7 @@
 
 📍 **Buenos Aires, Argentina**  
 📧 [zambrajose9@gmail.com](mailto:zambrajose9@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/jose-gregorio-zambrano-medina-46ba1520a) 
+🔗 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-zambrano-46ba1520a/) 
 
 ---
 
@@ -51,7 +51,7 @@ Licenciado en **Inteligencia Artificial** con experiencia en **Machine Learning,
 
 ### 📫 **Conéctate conmigo**
 📧 **Email**: [zambrajose9@gmail.com](mailto:zambrajose9@gmail.com)  
-🔗 **LinkedIn**: [Jose Gregorio Zambrano Medina](https://www.linkedin.com/in/jose-gregorio-zambrano-medina-46ba1520a)  
+🔗 **LinkedIn**: [Jose Zambrano](https://www.linkedin.com/in/jos%C3%A9-zambrano-46ba1520a/)  
 ---
 
 🔥 **¡Siempre aprendiendo y explorando el mundo de los datos! 🚀**  
