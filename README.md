@@ -4,7 +4,7 @@
 
 📍 **Buenos Aires, Argentina**  
 📧 [zambrajose9@gmail.com](mailto:zambrajose9@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/jose-gregorio-zambrano-medina-46ba1520a) | [Portafolio](https://tu-dominio.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jose-gregorio-zambrano-medina-46ba1520a) 
 
 ---
 
